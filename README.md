@@ -4,7 +4,7 @@
 <H3> Name:SANJAY V</H3>
 <H3>Register No:212223230188</H3>
 <H3> Experiment 2</H3>
-<H3>DATE:</H3>
+<H3>DATE:28/08/25</H3>
 
 ## AIM:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
